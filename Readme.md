@@ -1,7 +1,7 @@
-[![Open in Gitpod](https://img.shields.io/badge/Open_in-Gitpod-white?logo=gitpod)]( https://gitpod.io/new/#https://github.com/Vara-Lab/gNFT-Template.git)
+[![Open in Gitpod](https://img.shields.io/badge/Open_in-Gitpod-white?logo=gitpod)]( https://gitpod.io/new/#https://github.com/Vara-Lab/DAO-Template.git)
 
 
-# gRC20 Template
+# DAO Template
 
 
 # Deploy the Contract on the IDEA Platform and Interact with Your Contract
@@ -9,7 +9,7 @@
 ## Step 1: Open Contract on Gitpod
 
 <p align="center">
-  <a href="https://gitpod.io/#https://github.com/Vara-Lab/GRC20-Standard-Template.git" target="_blank">
+  <a href="https://gitpod.io/#https://github.com/Vara-Lab/DAO-Template.git" target="_blank">
     <img src="https://gitpod.io/button/open-in-gitpod.svg" width="240" alt="Gitpod">
   </a>
 </p>
